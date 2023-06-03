@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+/*ヘッダー*/
+header{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+}
+header h1{
+  padding:  20px 0 0 20px;
+}
+
+/*メイン*/
+main{
+  width: 840px;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+.category{
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
